@@ -1,0 +1,28 @@
+===== DAILY OBSERVER SUMMARY (2026-03-20) =====
+Uptime: 00:00 | ARM_LIVE=OFF
+
+[Setup]
+- Apply Picked: 0 time(s)
+- RealReg: 0 code(s)
+
+[TR Health]
+- TR IN total: 0
+  - opt10001: 0
+  - opt10081: 0
+  - opt10080: 0
+- ctx-miss: 0
+
+[Warmup/Indicators]
+- warmup_ready: 0
+- bars insufficient(<25): 0
+
+[Signals/Orders]
+- ENTRY signals: 0 | ADD signals: 0
+- BUY attempts: LIVE=0, SIM=0
+- SELL attempts: LIVE=0, SIM=0
+- BUY budget blocks: 0
+- Budget: spent=0 / budget=100,000
+
+[Per-code highlights]
+
+===== END =====
